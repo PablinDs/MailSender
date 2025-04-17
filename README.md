@@ -7,7 +7,7 @@
 
 ## 1. **Visão Geral**
 
-O **AutoMailSender** é um sistema desenvolvido em Python para automação de envio de e-mails personalizados, integrado diretamente ao Google Sheets. Este sistema visa otimizar a comunicação interna de organizações, enviando e-mails personalizados com base em dados extraídos de uma planilha hospedada no Google Sheets. A solução foi projetada para facilitar o processo de envio de mensagens para os colaboradores de diferentes departamentos, oferecendo uma maneira eficiente e automatizada de comunicação.
+O **MailSender** é um sistema desenvolvido em Python para automação de envio de e-mails personalizados, integrado diretamente ao Google Sheets. Este sistema visa otimizar a comunicação interna de organizações, enviando e-mails personalizados com base em dados extraídos de uma planilha hospedada no Google Sheets. A solução foi projetada para facilitar o processo de envio de mensagens para os colaboradores de diferentes departamentos, oferecendo uma maneira eficiente e automatizada de comunicação.
 
 ---
 
