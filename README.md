@@ -67,14 +67,12 @@ O sistema é iniciado pela execução da função `main` no final do script, que
 
 ## 6. **Formato da Planilha Google Sheets**
 
-A planilha do Google Sheets utilizada deve conter as seguintes colunas:
+A planilha do Google Sheets esta estruturada da seguinte forma:
 
-| Coluna | Descrição           |
-|--------|---------------------|
-| A      | Nome do colaborador |
-| B      | (Opcional)          |
-| C      | Departamento        |
-| D      | E-mail              |
+
+| Nome do colaborador  | (Opcional) | Departamento | E-mail |
+|----------------------|------------|--------------|--------|
+| A                    | B          | C            | D      | 
 
 A primeira linha da planilha deve ser um cabeçalho e será ignorada durante a execução do script.
 
