@@ -13,8 +13,8 @@ from googleapiclient.errors import HttpError
 SCOPES = ["https://www.googleapis.com/auth/spreadsheets"]
 
 def enviar_email(destinatario, nome, departamento):
-    remetente = "seu_email@gmail.com"  # Remetente (remova o e-mail real)
-    senha = "sua_senha"  # Senha do e-mail (remova a senha real)
+    remetente = "seu_email@gmail.com"  # Remetente 
+    senha = "sua_senha"  # Senha do e-mail 
     assunto = "Teste de Comunicação 📨"
     conteudo = f"""
 Olá {nome}! Você faz parte do setor {departamento}, correto?
