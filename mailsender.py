@@ -1,3 +1,4 @@
+#CÓDIGO ADAPTADO POR IA
 import os.path
 import smtplib
 from email.mime.multipart import MIMEMultipart
